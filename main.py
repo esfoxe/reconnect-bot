@@ -56,5 +56,5 @@ async def on_message(message):
 
 
 
-my_secret = "ODU5NTc0MjQ3NjEzNjYxMjA0.YNuq5g.Dzw1_viKFLnSMDAqBFKyHcNMjaM"
+my_secret = "change this string to our token"
 client.run(my_secret)
